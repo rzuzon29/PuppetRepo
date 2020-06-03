@@ -2,4 +2,4 @@
 
 cd /usr/local/puppet/code/environment/Production &&
 git pull
-/usr/bin/puppet apply /etc/puppet/manifests/
+/usr/bin/puppet apply /usr/local/puppet/code/environment/Production/manifests/
