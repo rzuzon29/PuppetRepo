@@ -1,5 +1,1 @@
-file {'/tmp/test.txt':
-	ensure => present,
-	source => '/usr/local/puppet/code/environtment/Production/files/config/',
-
-}
+this should be the content of the /tmp/test.txt file
