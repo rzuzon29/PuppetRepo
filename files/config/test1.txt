@@ -2,3 +2,5 @@ this should be the content of the /tmp/test.txt file
 
 
 added shit
+
+added second shit
