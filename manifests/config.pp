@@ -1,4 +1,4 @@
-file {'/tmp/test1.txt':
+file {'/tmp/':
 	ensure => present,
 	source => '/usr/local/puppet/code/environtment/Production/files/config/test1.txt',
 
